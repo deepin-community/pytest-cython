@@ -1,0 +1,2 @@
+version=4
+https://pypi.debian.net/pytest-cython/pytest-cython-(\d+(?:\.\d+)*)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))

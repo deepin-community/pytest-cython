@@ -1,3 +1,25 @@
+Metadata-Version: 2.1
+Name: pytest-cython
+Version: 0.3.1
+Summary: A plugin for testing Cython extension modules
+Home-page: https://github.com/lgpage/pytest-cython
+Author: Logan Page
+Author-email: page.lg@gmail.com
+License: MIT
+Keywords: pytest,py.test,cython,doctest
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Testing
+Classifier: Topic :: Utilities
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+Requires-Dist: pytest>=8
+
 # Overview
 
 [![PyPI Package latest release](https://img.shields.io/pypi/v/pytest-cython.svg?style=flat)](https://pypi.org/project/pytest-cython)
